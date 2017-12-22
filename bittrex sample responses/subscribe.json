@@ -1,0 +1,7 @@
+{
+    "MarketName": "USDT-BTC",
+    "Nounce": 375959,
+    "Buys": [{ "Type": 1, "Rate": 12592.0851804, "Quantity": 0 }, { "Type": 2, "Rate": 12540.00013641, "Quantity": 29.28606799 }, { "Type": 0, "Rate": 11728, "Quantity": 0.52479 }],
+    "Sells": [{ "Type": 0, "Rate": 12585.79228426, "Quantity": 2.16400503 }, { "Type": 2, "Rate": 12600, "Quantity": 4.40240581 }, { "Type": 2, "Rate": 12601.00000001, "Quantity": 0.71499096 }, { "Type": 1, "Rate": 15000, "Quantity": 0 }],
+    "Fills": [{ "OrderType": "BUY", "Rate": 12585.79228426, "Quantity": 0.00299278, "TimeStamp": "2017-12-22T13:14:02.037" }, { "OrderType": "SELL", "Rate": 12540.00013641, "Quantity": 0.05681386, "TimeStamp": "2017-12-22T13:14:01.82" }, { "OrderType": "SELL", "Rate": 12540.00013641, "Quantity": 0.38226614, "TimeStamp": "2017-12-22T13:14:01.71" }, { "OrderType": "SELL", "Rate": 12540.00013641, "Quantity": 0.27945808, "TimeStamp": "2017-12-22T13:14:01.71" }, { "OrderType": "SELL", "Rate": 12592.0851804, "Quantity": 0.001, "TimeStamp": "2017-12-22T13:14:01.71" }]
+}

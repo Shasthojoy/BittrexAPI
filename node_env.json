@@ -1,0 +1,10 @@
+{
+  "development": {
+      "bittrex": {
+          "api": {
+              "key": "",
+              "secret": ""
+          }
+      }
+  }
+}
